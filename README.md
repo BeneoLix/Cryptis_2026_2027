@@ -42,8 +42,6 @@ then
 
 - $ conda install --file requirements.txt
 
-- or you can use pip instead if you prefer:  
-    $ pip install -r requirements.txt
 ````
 
 Install jupyterlab using:
