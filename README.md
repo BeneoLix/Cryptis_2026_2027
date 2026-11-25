@@ -93,7 +93,8 @@ Follow the procedure in the following PDF [installation with docker](./docker/do
 2.  pip install jupyterlab (ou conda install jupyterlab)
 
 
-3.  Installation of ChipWhisperer-Lite 32-bit
+---------------------
+## Installation of ChipWhisperer-Lite 32-bit
 We will use this NewAE board to collect side-channel traces for the trainings.
 
     Install chipWhisperer by following the instruction given there
